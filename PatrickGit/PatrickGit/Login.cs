@@ -8,5 +8,6 @@ namespace PatrickGit
 {
     class Login
     {
+        public int MyProperty { get; set; }
     }
 }
